@@ -19,9 +19,10 @@ To work with this repository, follow these steps:
 1. Go to the GitHub repository: [React Material Tailwind Playground](https://github.com/jamilaferron/react-material-tailwind-playground).
 2. Click the **Fork** button at the top right of the page:
    
-   ![Fork Button](src/assets/Screenshot_2024-10-18_at_16.56.07.png)
+   ![Fork Button](https://github.com/user-attachments/assets/9e14ceae-9396-445a-bd33-1307a6248574)
 
-3. Clone the forked repository to your local machine:
+
+4. Clone the forked repository to your local machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/react-material-tailwind-playground.git
    ```
