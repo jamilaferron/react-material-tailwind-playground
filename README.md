@@ -43,7 +43,7 @@ npm install
 ```bash
 npm start
 ```
-You can now open the app in your browser at `http://localhost:3000z.
+You can now open the app in your browser at `http://localhost:3000`.
 
 # Using Tailwind CSS and Material Tailwind
 ### Tailwind CSS
