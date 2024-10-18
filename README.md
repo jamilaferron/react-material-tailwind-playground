@@ -143,5 +143,6 @@ style, and build components with React, Tailwind CSS, and Material Tailwind.
 
 ### Links for Reference
 Tailwind CSS Display Classes: Learn more about the display-related classes used in this component [here](https://tailwindcss.com/docs/installation).
+
 Material Tailwind Avatar Component: Find detailed information and examples for the Avatar component [here](https://www.material-tailwind.com/docs/react/installation).
 
