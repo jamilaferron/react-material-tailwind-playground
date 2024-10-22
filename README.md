@@ -79,7 +79,7 @@ import AvatarGroup from './components/AvatarGroup';
 ```
 
 ### Explanation:
-The `AvatarGroup` component uses the ``Avatar component from Material Tailwind to display 
+The `AvatarGroup` component uses the `Avatar` component from Material Tailwind to display 
 multiple avatars with different sizes. The layout is styled using Tailwind CSS utility 
 classes for flexibility and ease of use.
 
